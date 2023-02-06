@@ -4,5 +4,5 @@ idold.addEventListener("click", myFunction);
 
 function myFunction() {
 
-idold.innerHTML = "YOU CLICKED ME!"}
+idold.innerHTML = "YOU CLICKED ME only once!"}
   
